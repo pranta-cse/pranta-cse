@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/pranta-cse)
+🔭 I’m currently working on Learn Deutsch
 
-- 🌱 Aktuell: *Datenwissenschaft mit Python* | OSTAD.
+🌱 Currently learning: Data Science with Python | OSTAD
 
-- 🌱 Kurs in *PHP mit Laravel* abgeschlossen | OSTAD.
+🌱 Completed course in PHP with Laravel | OSTAD
 
-- 💬 Frag mich über *Datenwissenschaft*
+💬 Ask me about Data Science
 
-- 💬 Frag mich über *PHP*
+💬 Ask me about PHP
 
-- 📫 So erreichst du mich *ibnpranto@gmail.com@gmail.com*
+📫 Reach me at ibnpranto@gmail.com
 
-- ⚡ Interessante Tatsache: *Ich esse Python und PHP*
+⚡ Fun fact: I eat Python and PHP for breakfast 😄
 &nbsp;
 
 <h3 align="left">Connect with me</h3>
