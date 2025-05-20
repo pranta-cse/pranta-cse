@@ -1,13 +1,13 @@
 <img src="nafiz-noyon-github.gif" alt="MasterHead" width="" height="">
-<h1 align="center">Assalamualykum 🤝. Ich heiße Noyon</h1>
-<h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
+<h1 align="center">Assalamualykum 🤝. I'm Pranta</h1>
+<h3 align="center">Coding is my hobby, so I never get bored.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-swe&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-swe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranta-cse&label=Profile%20views&color=0e75b6&style=flat" alt="pranta-cse" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
+- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/pranta-cse)
 
 - 🌱 Aktuell: *Datenwissenschaft mit Python* | OSTAD.
 
@@ -17,36 +17,19 @@
 
 - 💬 Frag mich über *PHP*
 
-- 📫 So erreichst du mich *nafizulislam.swe@gmail.com*
+- 📫 So erreichst du mich *ibnpranto@gmail.com@gmail.com*
 
 - ⚡ Interessante Tatsache: *Ich esse Python und PHP*
 &nbsp;
 
-<h3 align="left">Verbinde dich mit mir</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://codepen.io/nafiz-swe-diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nafiz-swe-diu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nafiz-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafiz-swe" height="30" width="40" /></a>
-<a href="https://fb.com/nafiz.SE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
-<a href="https://instagram.com/nafiz.swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
+<a href="https://codepen.io/pranta-cse-diu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranta-cse-diu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranta-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranta-cse" height="30" width="40" /></a>
+<a href="https://fb.com/tahim.ibn.tazul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
+<a href="https://instagram.com/tazultahimibn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
 </p>
-<h3 align="left">Data Science</h3>
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
+
 <h3 align="left">Backend | Web</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -97,10 +80,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=de&layout=compact" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=de" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=nafiz-swe&theme=github-dark&locale=de" alt="GitHub Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranta-cse&show_icons=true&locale=en&layout=compact" alt="pranta-cse" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranta-cse&show_icons=true&locale=en" alt="pranta-cse" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=pranta-cse&theme=github-dark&locale=en" alt="GitHub Streak" /></p>
